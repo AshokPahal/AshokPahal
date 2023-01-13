@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @AshokPahal
-- 👀 I’m interested in Game Development.
-- 🌱 I’m currently learning C/C+++.
-- 💞️ I’m looking to collaborate on C++ projects.
+- 👀 Interested in Game Development.
+- 🌱 Learning C/C+++.
+- 💞️ Looking to collaborate on C++ projects.
 - 📫 How to reach me Mail : pahalashok400@gmail.com
 
 <!---
