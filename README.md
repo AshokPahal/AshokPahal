@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @AshokPahal
-- 👀 Interested in Game Development.
+- 👀 Interested in Backend Development.
 - 🌱 Learning C/C+++.
-- 💞️ Looking to collaborate on C++ projects.
 - 📫 How to reach me Mail : pahalashok400@gmail.com
 
 <!---
